@@ -16,7 +16,7 @@ V免签pc监控端更新界面
 
 #### 版本更新
 
-Vpay监控 3.2[https://wwi.lanzoui.com/iDgUJplkyje](https://wwi.lanzoui.com/iDgUJplkyje
+Vpay监控 3.2 [https://wwi.lanzoui.com/iDgUJplkyje](https://wwi.lanzoui.com/iDgUJplkyje
 )
 更新日志：
 1.增加收款后播报语音功能
