@@ -16,6 +16,14 @@ V免签pc监控端更新界面
 
 #### 版本更新
 
+Vpay监控 3.4 [https://wwi.lanzoui.com/iOiCDpmsy5e](https://wwi.lanzoui.com/iOiCDpmsy5e
+)
+
+更新日志：
+1.修复支付宝登录显示
+2.修复部分微信用户没有订阅收款助手无法回调
+
+
 Vpay监控 3.3 [https://wwi.lanzoui.com/iIe2Cpmluyh](https://wwi.lanzoui.com/iIe2Cpmluyh)
 
 更新日志：
