@@ -24,7 +24,7 @@ Vpay监控 3.4 [https://wwi.lanzoui.com/iOiCDpmsy5e](https://wwi.lanzoui.com/iOi
 2.修复部分微信用户没有订阅收款助手无法回调
 
 
-Vpay监控 3.3 [https://wwi.lanzoui.com/iIe2Cpmluyh](https://wwi.lanzoui.com/iIe2Cpmluyh)
+Vpay监控 3.3 [https://wwi.lanzoui.com/igLvzpmt41g](https://wwi.lanzoui.com/igLvzpmt41g)
 
 更新日志：
 紧急修复微信Hook偏移
