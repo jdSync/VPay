@@ -16,6 +16,11 @@ V免签pc监控端更新界面
 
 #### 版本更新
 
+Vpay监控 3.3 [https://wwi.lanzoui.com/iIe2Cpmluyh](https://wwi.lanzoui.com/iIe2Cpmluyh)
+
+更新日志：
+紧急修复微信Hook偏移
+
 Vpay监控 3.2 [https://wwi.lanzoui.com/iDgUJplkyje](https://wwi.lanzoui.com/iDgUJplkyje
 )
 
