@@ -16,6 +16,12 @@ V免签pc监控端更新界面
 
 #### 版本更新
 
+Vpay监控 3.5 [https://wwi.lanzoui.com/iJK0upnyusf](https://wwi.lanzoui.com/iJK0upnyusf)
+
+更新日志：
+修复启动初始化端口，解决长时间微信会断线。
+
+
 Vpay监控 3.4 [https://wwi.lanzoui.com/igLvzpmt41g](https://wwi.lanzoui.com/igLvzpmt41g)
 
 更新日志：
