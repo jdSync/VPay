@@ -16,6 +16,12 @@ V免签pc监控端更新界面
 
 #### 版本更新
 
+Vpay监控 3.5 [https://wwi.lanzoui.com/iqxvHpo0o2f](https://wwi.lanzoui.com/iqxvHpo0o2f
+)
+
+更新日志：
+修复端口被占用，导致无法继续创建端口获取消息问题。
+
 Vpay监控 3.5 [https://wwi.lanzoui.com/iJK0upnyusf](https://wwi.lanzoui.com/iJK0upnyusf)
 
 更新日志：
