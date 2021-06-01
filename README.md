@@ -16,7 +16,7 @@ V免签pc监控端更新界面
 
 #### 版本更新
 
-Vpay监控 3.5 [https://wwi.lanzoui.com/iqxvHpo0o2f](https://wwi.lanzoui.com/iqxvHpo0o2f
+Vpay监控 3.6 [https://wwi.lanzoui.com/iqxvHpo0o2f](https://wwi.lanzoui.com/iqxvHpo0o2f
 )
 
 更新日志：
