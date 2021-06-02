@@ -18,6 +18,12 @@ V免签pc监控端更新界面
 
 持续更新中~~~ 点击顶部star 点亮小星星是对我最大的支持 
 
+Vpay监控 3.7 [https://wwi.lanzoui.com/ip19Fpq4hzc](https://wwi.lanzoui.com/ip19Fpq4hzc)
+
+更新日志：
+更新支付宝监听，防风控更稳定；
+修改获取订单显示位置，顶部显示。
+
 Vpay监控 3.6 [https://wwi.lanzoui.com/iqxvHpo0o2f](https://wwi.lanzoui.com/iqxvHpo0o2f
 )
 
