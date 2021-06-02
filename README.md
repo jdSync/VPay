@@ -16,6 +16,8 @@ V免签pc监控端更新界面
 
 #### 版本更新
 
+持续更新中~~~ 点击顶部star 点亮小星星是对我最大的支持 
+
 Vpay监控 3.6 [https://wwi.lanzoui.com/iqxvHpo0o2f](https://wwi.lanzoui.com/iqxvHpo0o2f
 )
 
