@@ -20,6 +20,11 @@ V免签pc监控端更新界面
 
 问题反馈：qq群455123230
 
+Vpay监控 3.8 [https://wwi.lanzoui.com/i68mvprsz0f](https://wwi.lanzoui.com/i68mvprsz0f)
+
+更新日志：
+适配最新版微信Hook，优化退出WechatBrowser.exe
+
 Vpay监控 3.7 [https://wwi.lanzoui.com/iLUEtpq4q4f](https://wwi.lanzoui.com/iLUEtpq4q4f)
 
 哈勃分析：[点此进入](https://habo.qq.com/file/showdetail?pk=ADcGYF1sB2QIMFs9U2s%3D)
