@@ -20,6 +20,14 @@ V免签pc监控端更新界面
 
 问题反馈：qq群455123230
 
+Vpay监控 3.9 [https://wwi.lanzoui.com/iYsDQql2kcb](https://wwi.lanzoui.com/iYsDQql2kcb)
+
+更新日志：
+优化支付宝监听
+增加阿里旺旺监听（测试阶段）
+修改微信hook地址
+支持微信版本号 3.3.0.84
+
 Vpay监控 3.8 [https://wwi.lanzoui.com/i68mvprsz0f](https://wwi.lanzoui.com/i68mvprsz0f)
 
 更新日志：
