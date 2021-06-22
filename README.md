@@ -20,7 +20,7 @@ V免签pc监控端更新界面
 
 问题反馈：qq群455123230
 
-Vpay监控 3.9 [https://wwi.lanzoui.com/i8kmqql3i7a](https://wwi.lanzoui.com/i8kmqql3i7a)
+Vpay监控 3.9 [https://wwi.lanzoui.com/iO86Lql440f](https://wwi.lanzoui.com/iO86Lql440f)
 更新HOOK不改版本号，自行选择
 支持微信版本号 3.3.0.93
 
