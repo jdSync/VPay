@@ -20,6 +20,11 @@ V免签pc监控端更新界面
 
 问题反馈：qq群455123230
 
+Vpay监控 4.1 [https://wwi.lanzoui.com/iAq3kqn7pab](https://wwi.lanzoui.com/iAq3kqn7pab)
+
+紧急修复
+
+
 Vpay监控 4.0 [https://wwi.lanzoui.com/i6loUqn4kcf](https://wwi.lanzoui.com/i6loUqn4kcf)
 
 更新日志：
