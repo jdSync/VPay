@@ -20,7 +20,21 @@ V免签pc监控端更新界面
 
 问题反馈：qq群455123230
 
+Vpay监控 4.0 [https://wwi.lanzoui.com/i6loUqn4kcf](https://wwi.lanzoui.com/i6loUqn4kcf)
+
+更新日志：
+
+1.优化目前已知问题
+
+2.解决支付宝阿里旺旺掉单现象
+
+3.移除支付宝不稳定版，修改ie代理问题
+
+4.支持微信版本号 3.3.0.93
+
+
 Vpay监控 3.9 [https://wwi.lanzoui.com/iYv1Yql4n1a](https://wwi.lanzoui.com/iYv1Yql4n1a)
+
 更新HOOK不改版本号，自行选择
 支持微信版本号 3.3.0.93
 
