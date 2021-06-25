@@ -20,6 +20,18 @@ V免签pc监控端更新界面
 
 问题反馈：qq群455123230
 
+Vpay监控 4.2 [https://wwi.lanzoui.com/ic8T7qpb4fg](https://wwi.lanzoui.com/ic8T7qpb4fg)
+
+更新日志：
+
+1.增加启动心跳音效
+
+2.更新Hook支持微信版本 3.3.0.104 
+
+3.修复必须要关注微信收款助手问题
+
+4.增加新手使用文档
+
 Vpay监控 4.1 [https://wwi.lanzoui.com/i4p3lqnm1bi](https://wwi.lanzoui.com/i4p3lqnm1bi)
 
 紧急修复
