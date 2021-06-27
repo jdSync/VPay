@@ -20,6 +20,19 @@ V免签pc监控端更新界面
 
 问题反馈：qq群455123230
 
+
+
+Vpay监控 4.3 [https://wwi.lanzoui.com/iKHXuqr9tab](https://wwi.lanzoui.com/iKHXuqr9tab)
+
+更新日志：
+
+1.修复支付宝已知问题
+
+2.增加刷新频率
+
+3.更新获取订单机制
+
+
 Vpay监控 4.2 [https://wwi.lanzoui.com/ic8T7qpb4fg](https://wwi.lanzoui.com/ic8T7qpb4fg)
 
 更新日志：
