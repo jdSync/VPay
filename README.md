@@ -23,6 +23,13 @@ V免签pc监控端更新界面
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
+ **Vpay监控 4.5**  [https://wwi.lanzoui.com/ixqzCr3vl0h](https://wwi.lanzoui.com/ixqzCr3vl0h)
+
+更新日志：
+
+增加微信商家版店员监听消息处理
+
+
  **Vpay监控 4.4**  [https://wwi.lanzoui.com/is1KXr1vm4f](https://wwi.lanzoui.com/is1KXr1vm4f)
 
 更新日志：
