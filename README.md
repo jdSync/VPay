@@ -23,6 +23,21 @@ V免签pc监控端更新界面
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
+ **Vpay监控 4.6**  [https://wwi.lanzoui.com/iteaqrhk57g](https://wwi.lanzoui.com/iteaqrhk57g)
+
+
+更新日志
+
+
+1.增加设置代理IP功能（适配国外vps环境）
+
+2.增加支付宝接口通道选择
+
+3.解决支付宝掉单问题
+
+4.优化多线程处理机制
+
+
  **Vpay监控 4.5**  [https://wwi.lanzoui.com/ixqzCr3vl0h](https://wwi.lanzoui.com/ixqzCr3vl0h)
 
 更新日志：
