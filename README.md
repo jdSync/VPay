@@ -23,6 +23,17 @@ V免签pc监控端更新界面
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
+ **Vpay监控 4.7 稳定版**  [https://wwi.lanzoui.com/iXxHrrk4g7e](https://wwi.lanzoui.com/iXxHrrk4g7e)
+
+更新日志
+
+1.彻底解决支付宝10分钟回调问题
+
+2.解决支付宝0元订单推送
+
+3.调整支付宝订单刷新到顶部
+
+
  **Vpay监控 4.6**  [https://wwi.lanzoui.com/iteaqrhk57g](https://wwi.lanzoui.com/iteaqrhk57g)
 
 
