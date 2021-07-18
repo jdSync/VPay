@@ -23,6 +23,13 @@ V免签pc监控端更新界面
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
+ **Vpay监控 4.8 稳定版**  [https://wwi.lanzoui.com/i5b4zrkkamj](https://wwi.lanzoui.com/i5b4zrkkamj)
+
+更新日志
+
+紧急修复接口。
+
+
  **Vpay监控 4.7 稳定版**  [https://wwi.lanzoui.com/iXxHrrk4g7e](https://wwi.lanzoui.com/iXxHrrk4g7e)
 
 更新日志
