@@ -28,6 +28,16 @@ V免签pc监控端更新界面
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+ **Vpay监控 4.9 稳定版**  [https://wwi.lanzoui.com/iLZ9dro5oyj](https://wwi.lanzoui.com/iLZ9dro5oyj)
+
+更新日志
+
+1.增加邮箱通知（收款、程序异常、订单异常等等）
+
+2.修复使用文档打开异常
+
+3.增加智能物联（预计下个版本开放，q群指令管理）
+
 
  **Vpay监控 4.8 稳定版**  [https://wwi.lanzoui.com/i5b4zrkkamj](https://wwi.lanzoui.com/i5b4zrkkamj)
 
