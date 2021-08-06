@@ -30,6 +30,19 @@ V免签pc监控端更新界面
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+ **Vpay监控 5.1 稳定版** [https://wwi.lanzoui.com/iAXgpsazbpe](https://wwi.lanzoui.com/iAXgpsazbpe)
+
+更新日志
+
+1.更新最新微信版本Hook 3.3.5.34
+
+2.修复支付宝程序_延时问题
+
+
+ **Vpay监控 5.O ** 过渡版本
+
+
+
  **Vpay监控 4.9 稳定版**  [https://wwi.lanzoui.com/iLZ9dro5oyj](https://wwi.lanzoui.com/iLZ9dro5oyj)
 
 更新日志
