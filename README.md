@@ -30,6 +30,16 @@ V免签pc监控端更新界面
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+
+**Vpay监控 5.2 稳定版** [https://wwi.lanzoui.com/ifw8zt4ngli](https://wwi.lanzoui.com/ifw8zt4ngli)
+
+更新日志
+
+1.修复微信店员监听验签失败问题
+
+2.声明微信官网下载的微信和本地升级的微信版本号不一致，（默认手动升级的版本号为最新）可以打包本地的微信到服务器使用
+
+
  **Vpay监控 5.1 稳定版** [https://wwi.lanzoui.com/iAXgpsazbpe](https://wwi.lanzoui.com/iAXgpsazbpe)
 
 更新日志
