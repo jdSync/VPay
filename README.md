@@ -31,6 +31,16 @@ V免签pc监控端更新界面
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
+**Vpay监控 5.3 稳定版** [https://wwi.lanzoui.com/iLVxxtdud9e](https://wwi.lanzoui.com/iLVxxtdud9e)
+
+更新日志
+
+1.更新dll（支持当前最新版微信 3.3.5.50）
+
+2.增加店员收款 监听店长昵称
+
+
+
 **Vpay监控 5.2 稳定版** [https://wwi.lanzoui.com/ifw8zt4ngli](https://wwi.lanzoui.com/ifw8zt4ngli)
 
 更新日志
@@ -38,6 +48,7 @@ V免签pc监控端更新界面
 1.修复微信店员监听验签失败问题
 
 2.声明微信官网下载的微信和本地升级的微信版本号不一致，（默认手动升级的版本号为最新）可以打包本地的微信到服务器使用
+
 
 
  **Vpay监控 5.1 稳定版** [https://wwi.lanzoui.com/iAXgpsazbpe](https://wwi.lanzoui.com/iAXgpsazbpe)
@@ -49,7 +60,9 @@ V免签pc监控端更新界面
 2.修复支付宝程序_延时问题
 
 
- **Vpay监控 5.O ** 过渡版本
+
+ **Vpay监控 5.O** 过渡版本
+
 
 
 
@@ -64,11 +77,14 @@ V免签pc监控端更新界面
 3.增加智能物联（预计下个版本开放，q群指令管理）
 
 
+
+
  **Vpay监控 4.8 稳定版**  [https://wwi.lanzoui.com/i5b4zrkkamj](https://wwi.lanzoui.com/i5b4zrkkamj)
 
 更新日志
 
 紧急修复接口。
+
 
 
  **Vpay监控 4.7 稳定版**  [https://wwi.lanzoui.com/iXxHrrk4g7e](https://wwi.lanzoui.com/iXxHrrk4g7e)
@@ -82,11 +98,11 @@ V免签pc监控端更新界面
 3.调整支付宝订单刷新到顶部
 
 
+
  **Vpay监控 4.6**  [https://wwi.lanzoui.com/iteaqrhk57g](https://wwi.lanzoui.com/iteaqrhk57g)
 
 
 更新日志
-
 
 1.增加设置代理IP功能（适配国外vps环境）
 
@@ -97,11 +113,13 @@ V免签pc监控端更新界面
 4.优化多线程处理机制
 
 
+
  **Vpay监控 4.5**  [https://wwi.lanzoui.com/ixqzCr3vl0h](https://wwi.lanzoui.com/ixqzCr3vl0h)
 
 更新日志：
 
 增加微信商家版店员监听消息处理
+
 
 
  **Vpay监控 4.4**  [https://wwi.lanzoui.com/is1KXr1vm4f](https://wwi.lanzoui.com/is1KXr1vm4f)
@@ -127,6 +145,7 @@ V免签pc监控端更新界面
 3.更新获取订单机制
 
 
+
  **Vpay监控 4.2**  [https://wwi.lanzoui.com/ic8T7qpb4fg](https://wwi.lanzoui.com/ic8T7qpb4fg)
 
 更新日志：
@@ -139,9 +158,12 @@ V免签pc监控端更新界面
 
 4.增加新手使用文档
 
+
+
  **Vpay监控 4.1**  [https://wwi.lanzoui.com/i4p3lqnm1bi](https://wwi.lanzoui.com/i4p3lqnm1bi)
 
 紧急修复
+
 
 
  **Vpay监控 4.0**  [https://wwi.lanzoui.com/i6loUqn4kcf](https://wwi.lanzoui.com/i6loUqn4kcf)
@@ -157,10 +179,12 @@ V免签pc监控端更新界面
 4.支持微信版本号 3.3.0.93
 
 
+
  **Vpay监控 3.9**  [https://wwi.lanzoui.com/iYv1Yql4n1a](https://wwi.lanzoui.com/iYv1Yql4n1a)
 
 更新HOOK不改版本号，自行选择
 支持微信版本号 3.3.0.93
+
 
 
  **Vpay监控 3.9**  [https://wwi.lanzoui.com/iYsDQql2kcb](https://wwi.lanzoui.com/iYsDQql2kcb)
@@ -171,44 +195,63 @@ V免签pc监控端更新界面
 修改微信hook地址
 支持微信版本号 3.3.0.84
 
+
+
  **Vpay监控 3.8**  [https://wwi.lanzoui.com/i68mvprsz0f](https://wwi.lanzoui.com/i68mvprsz0f)
 
 更新日志：
+
 适配最新版微信Hook，优化退出WechatBrowser.exe
+
+
 
 **Vpay监控 3.7**  [https://wwi.lanzoui.com/iLUEtpq4q4f](https://wwi.lanzoui.com/iLUEtpq4q4f)
 
 哈勃分析：[点此进入](https://habo.qq.com/file/showdetail?pk=ADcGYF1sB2QIMFs9U2s%3D)
 
 更新日志：
+
 更新支付宝监听，防风控更稳定；
+
 修改获取订单显示位置，顶部显示。
+
+
 
  **Vpay监控 3.6**  [https://wwi.lanzoui.com/iqxvHpo0o2f](https://wwi.lanzoui.com/iqxvHpo0o2f
 )
 
 更新日志：
+
 修复端口被占用，导致无法继续创建端口获取消息问题。
+
+
 
  **Vpay监控 3.5**  [https://wwi.lanzoui.com/iJK0upnyusf](https://wwi.lanzoui.com/iJK0upnyusf)
 
 更新日志：
+
 修复启动初始化端口，解决长时间微信会断线。
+
 
 
  **Vpay监控 3.4**  [https://wwi.lanzoui.com/igLvzpmt41g](https://wwi.lanzoui.com/igLvzpmt41g)
 
 更新日志：
+
 1.修复支付宝登录显示
+
 2.修复部分微信用户没有订阅收款助手无法回调
+
 
 
  **Vpay监控 3.3**  [https://wwi.lanzoui.com/igLvzpmt41g](https://wwi.lanzoui.com/igLvzpmt41g)
 
 更新日志：
+
 紧急修复微信Hook偏移
 
-V **pay监控 3.2**  [https://wwi.lanzoui.com/iDgUJplkyje](https://wwi.lanzoui.com/iDgUJplkyje
+
+**Vpay监控 3.2**  [https://wwi.lanzoui.com/iDgUJplkyje](https://wwi.lanzoui.com/iDgUJplkyje
 )
 
 更新日志：
